@@ -9,7 +9,8 @@ slfilter is a Perl/Tk program which monitors for syslog messages, and displays m
 * Filter messages using multiple inclusion or exclusion
 * Save/Export log entries (future) 
 
-!(slfilter screen shot)[slfilter_1008.png]
+![slfilter screen shot](slfilter_1008.png)
 
 
-Originally authored 2010-03-18
+Originally authored 2010-03-17
+
